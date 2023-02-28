@@ -1,1 +1,2 @@
-# variable_sized_arrays
+# variable_sized_arrays 
+hackerank solution.
